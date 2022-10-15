@@ -1,0 +1,24 @@
+{
+  "name": "cvportfolio",
+  "version": "1.0.0",
+  "description": "Somente meu portfolio/curriculo para ser usado na hora de me aplicar a vagas de emprego",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisraujoc/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "curriculo",
+    "CV",
+    "dev",
+    "frontend",
+    "work",
+    "emprego"
+  ],
+  "author": "Luís Henrique Araújo Couto",
+  "license": "MIT",
+  "homepage": "https://github.com/luisraujoc/portfolio#readme"
+}

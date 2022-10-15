@@ -1,0 +1,3 @@
+# Pastas ignradas
+node_modules/
+.git/
