@@ -20,5 +20,8 @@
   ],
   "author": "Luís Henrique Araújo Couto",
   "license": "MIT",
-  "homepage": "https://github.com/luisraujoc/portfolio#readme"
+  "homepage": "https://github.com/luisraujoc/portfolio#readme",
+  "dependencies": {
+    "cirrus-ui": "^0.7.1"
+  }
 }
